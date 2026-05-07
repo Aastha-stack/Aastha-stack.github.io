@@ -1,0 +1,2 @@
+// Optional: you can add interactive features here later
+console.log("Portfolio loaded successfully!");
