@@ -1,0 +1,46 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background: #f9f9fb;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+header {
+  background: #2e3a59;
+  color: white;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+header a {
+  color: #ffd700;
+  text-decoration: none;
+}
+
+section {
+  background: white;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  border-radius: 12px;
+  width: 90%;
+  max-width: 900px;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+}
+
+h1, h2 {
+  color: #2e3a59;
+}
+
+.project {
+  margin-bottom: 1.5rem;
+}
+
+footer {
+  background: #2e3a59;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+}
